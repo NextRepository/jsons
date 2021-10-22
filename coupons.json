@@ -1,0 +1,18 @@
+[
+    {
+        "Id": 0,
+        "Name": "10% Off"
+    },
+    {
+        "Id": 1,
+        "Name": "$2.00 Off"
+    },
+    {
+        "Id": 2,
+        "Name": "50% Off Big Mac"
+    },
+    {
+        "Id": 3,
+        "Name": "Good Neighbor"
+    }
+]

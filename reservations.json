@@ -1,0 +1,199 @@
+[
+    {
+        "Id": 1,
+        "Customer": {
+            "Id": 1,
+            "Name": "Anika Septimus",
+            "Email": "Noel169@gmail.com",
+            "Phone": "8042631352",
+            "Birthday": null,
+            "Points": 177,
+            "Rewards": 1,
+            "GiftCards": [
+                {
+                    "Id": 1,
+                    "GiftCardNumber": "7777777777",
+                    "TotalBalance": 20.0
+                },
+                {
+                    "Id": 2,
+                    "GiftCardNumber": "5555555555",
+                    "TotalBalance": 50.0
+                }
+            ]
+        },
+        "TableNumber": 12,
+        "SeatsCount": 1,
+        "Comment": null,
+        "DateTime": "2021-03-28T20:36:03",
+        "Server": null
+    },
+    {
+        "Id": 2,
+        "Customer": {
+            "Id": 2,
+            "Name": "Ann Stanton",
+            "Email": "ann.stanton@gmail.com",
+            "Phone": "7482595472",
+            "Birthday": null,
+            "Points": 50,
+            "Rewards": 3,
+            "GiftCards": [
+                {
+                    "Id": 3,
+                    "GiftCardNumber": "3333333333",
+                    "TotalBalance": 100.0
+                }
+            ]
+        },
+        "TableNumber": 19,
+        "SeatsCount": 2,
+        "Comment": null,
+        "DateTime": "2021-03-28T21:11:04",
+        "Server": null
+    },
+    {
+        "Id": 3,
+        "Customer": {
+            "Id": 3,
+            "Name": "Eli Kranlon",
+            "Email": "eLi.kranlon@gmail.com",
+            "Phone": "4689564376",
+            "Birthday": null,
+            "Points": 217,
+            "Rewards": 5,
+            "GiftCards": null
+        },
+        "TableNumber": 9,
+        "SeatsCount": 3,
+        "Comment": null,
+        "DateTime": "2021-03-29T09:30:48",
+        "Server": null
+    },
+    {
+        "Id": 4,
+        "Customer": {
+            "Id": 4,
+            "Name": "Chance Workman",
+            "Email": "workman46@gmail.com",
+            "Phone": "3769454508",
+            "Birthday": null,
+            "Points": 22,
+            "Rewards": 2,
+            "GiftCards": null
+        },
+        "TableNumber": 21,
+        "SeatsCount": 4,
+        "Comment": null,
+        "DateTime": "2021-03-29T09:30:48",
+        "Server": null
+    },
+    {
+        "Id": 5,
+        "Customer": {
+            "Id": 5,
+            "Name": "Erik Dokidis",
+            "Email": "erik.dokidis@gmail.com",
+            "Phone": "3879366548",
+            "Birthday": null,
+            "Points": 50,
+            "Rewards": 4,
+            "GiftCards": null
+        },
+        "TableNumber": 10,
+        "SeatsCount": 5,
+        "Comment": null,
+        "DateTime": "2021-03-29T00:22:01",
+        "Server": null
+    },
+    {
+        "Id": 6,
+        "Customer": {
+            "Id": 6,
+            "Name": "Kiana Septimus",
+            "Email": "KianaSeptimus@gmail.com",
+            "Phone": "1571277241",
+            "Birthday": null,
+            "Points": 135,
+            "Rewards": 1,
+            "GiftCards": null
+        },
+        "TableNumber": 20,
+        "SeatsCount": 6,
+        "Comment": null,
+        "DateTime": "2021-03-28T20:54:09",
+        "Server": null
+    },
+    {
+        "Id": 7,
+        "Customer": {
+            "Id": 7,
+            "Name": "Leo Curtis",
+            "Email": "Leonel24@gmail.com",
+            "Phone": "7243952461",
+            "Birthday": null,
+            "Points": 177,
+            "Rewards": 3,
+            "GiftCards": null
+        },
+        "TableNumber": 2,
+        "SeatsCount": 7,
+        "Comment": null,
+        "DateTime": "2021-03-29T15:51:34",
+        "Server": null
+    },
+    {
+        "Id": 8,
+        "Customer": {
+            "Id": 8,
+            "Name": "Liva Torff",
+            "Email": "livorff@gmail.com",
+            "Phone": "6461757369",
+            "Birthday": null,
+            "Points": 217,
+            "Rewards": 5,
+            "GiftCards": null
+        },
+        "TableNumber": 6,
+        "SeatsCount": 8,
+        "Comment": null,
+        "DateTime": "2021-03-29T02:48:43",
+        "Server": null
+    },
+    {
+        "Id": 9,
+        "Customer": {
+            "Id": 9,
+            "Name": "Maria Siphron",
+            "Email": "mariaSiph@gmail.com",
+            "Phone": "3475903018",
+            "Birthday": null,
+            "Points": 22,
+            "Rewards": 2,
+            "GiftCards": null
+        },
+        "TableNumber": 13,
+        "SeatsCount": 9,
+        "Comment": null,
+        "DateTime": "2021-03-29T02:07:38",
+        "Server": null
+    },
+    {
+        "Id": 10,
+        "Customer": {
+            "Id": 10,
+            "Name": "Marley Lubin",
+            "Email": "marley756@gmail.com",
+            "Phone": "0525328452",
+            "Birthday": null,
+            "Points": 50,
+            "Rewards": 4,
+            "GiftCards": null
+        },
+        "TableNumber": 4,
+        "SeatsCount": 10,
+        "Comment": null,
+        "DateTime": "2021-03-29T02:02:24",
+        "Server": null
+    }
+]

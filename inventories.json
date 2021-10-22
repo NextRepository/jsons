@@ -1,0 +1,306 @@
+[
+   {
+      "Id":1,
+      "Price":0.0,
+      "Name":"Fries",
+      "ImagePath":"https://i.pinimg.com/originals/f7/9c/76/f79c76837fbcb974c7589a10928b8461.png",
+      "Category":"Sides & Snack",
+      "IsChosen":false
+   },
+   {
+      "Id":2,
+      "Price":0.0,
+      "Name":"Sweet Potato Fries",
+      "ImagePath":"https://i.pinimg.com/originals/01/60/ba/0160ba7d21bd86f0491d1c2e2b4d6ccd.png",
+      "Category":"Sides & Snack",
+      "IsChosen":false
+   },
+   {
+      "Id":3,
+      "Price":3.0,
+      "Name":"Grilled Vegetables",
+      "ImagePath":"https://i.pinimg.com/originals/a2/88/0c/a2880c88a375e29f84114a6844164f8e.png",
+      "Category":"Sides & Snack",
+      "IsChosen":false
+   },
+   {
+      "Id":4,
+      "Price":2.0,
+      "Name":"Mango Salsa",
+      "ImagePath":"https://i.pinimg.com/originals/84/bc/62/84bc62d6ae08524791b15d25070dc2f8.png",
+      "Category":"Sides & Snack",
+      "IsChosen":false
+   },
+   {
+      "Id":5,
+      "Price":2.0,
+      "Name":"Croissant",
+      "ImagePath":"https://i.pinimg.com/originals/3d/af/6d/3daf6d72805612cd17f0997c14ae2029.png",
+      "Category":"Sides & Snack",
+      "IsChosen":false
+   },
+   {
+      "Id":6,
+      "Price":0.0,
+      "Name":"Creamy Peppercorn",
+      "ImagePath":"https://i.pinimg.com/originals/80/e6/55/80e655dac9034a17228b2d7e12623296.png",
+      "Category":"Sauce",
+      "IsChosen":false
+   },
+   {
+      "Id":7,
+      "Price":0.0,
+      "Name":"BBQ",
+      "ImagePath":"https://i.pinimg.com/originals/2d/1a/4e/2d1a4ef933c5d6d56fbe96b0eb5af9e6.png",
+      "Category":"Sauce",
+      "IsChosen":false
+   },
+   {
+      "Id":8,
+      "Price":0.0,
+      "Name":"Cowboy Butter",
+      "ImagePath":"https://i.pinimg.com/originals/ce/b4/8b/ceb48bae0cc5b006c6473e05ec19a747.png",
+      "Category":"Sauce",
+      "IsChosen":false
+   },
+   {
+      "Id":9,
+      "Price":0.0,
+      "Name":"Blue Cheese",
+      "ImagePath":"https://i.pinimg.com/originals/54/ad/1d/54ad1d439171604226ff03d38fcfa624.png",
+      "Category":"Sauce",
+      "IsChosen":false
+   },
+   {
+      "Id":10,
+      "Price":0.0,
+      "Name":"Spicy Mayo",
+      "ImagePath":"https://i.pinimg.com/originals/ed/fd/93/edfd93f6363a17bdf56f5c166379ac1b.png",
+      "Category":"Sauce",
+      "IsChosen":false
+   },
+   {
+      "Id":11,
+      "Price":0.0,
+      "Name":"Remoulade",
+      "ImagePath":"https://i.pinimg.com/originals/fc/a3/8e/fca38e20d76939dda7dc0c2ce37341ec.png",
+      "Category":"Sauce",
+      "IsChosen":false
+   },
+   {
+      "Id":12,
+      "Price":0.0,
+      "Name":"Mustard Aioli",
+      "ImagePath":"https://i.pinimg.com/originals/18/b5/06/18b506c44c66f2736d46e6a9d71b17e9.png",
+      "Category":"Sauce",
+      "IsChosen":false
+   },
+   {
+      "Id":13,
+      "Price":0.0,
+      "Name":"Avocado Sauce",
+      "ImagePath":"https://i.pinimg.com/originals/e0/04/b2/e004b2951332e54dbe2ed91fa3a3495f.png",
+      "Category":"Sauce",
+      "IsChosen":false
+   },
+   {
+      "Id":14,
+      "Price":3.75,
+      "Name":"Guacamole",
+      "ImagePath":"https://i.pinimg.com/originals/1f/87/88/1f8788f841e4027f50c4ec1ab2353978.png",
+      "Category":"Vegetables",
+      "IsChosen":false
+   },
+   {
+      "Id":15,
+      "Price":6.0,
+      "Name":"Grilled Chicken",
+      "ImagePath":"https://i.pinimg.com/originals/ea/86/e4/ea86e4169a6ef613a8a47430b64839ea.png",
+      "Category":"Meats",
+      "IsChosen":false
+   },
+   {
+      "Id":16,
+      "Price":7.0,
+      "Name":"Grilled Steak",
+      "ImagePath":"https://i.pinimg.com/originals/67/45/35/674535ebbdca39de9c7a323b35a538cc.png",
+      "Category":"Meats",
+      "IsChosen":false
+   },
+   {
+      "Id":17,
+      "Price":0.0,
+      "Name":"Chicken",
+      "ImagePath":"https://i.pinimg.com/originals/ea/86/e4/ea86e4169a6ef613a8a47430b64839ea.png",
+      "Category":"Meats",
+      "IsChosen":false
+   },
+   {
+      "Id":18,
+      "Price":0.0,
+      "Name":"Beef",
+      "ImagePath":"https://i.pinimg.com/originals/ae/3c/55/ae3c55b4d6f7f1065464ff6340ffe88f.png",
+      "Category":"Meats",
+      "IsChosen":false
+   },
+   {
+      "Id":19,
+      "Price":0.0,
+      "Name":"Nut",
+      "ImagePath":"https://i.pinimg.com/originals/fc/28/0d/fc280de02b5ee807479f57fdf45f4420.png",
+      "Category":"Meats",
+      "IsChosen":false
+   },
+   {
+      "Id":20,
+      "Price":1.0,
+      "Name":"Gluten Free Buns",
+      "ImagePath":"https://i.pinimg.com/originals/f7/73/88/f77388a792d55082ea4894d01fd45177.png",
+      "Category":"Bread",
+      "IsChosen":false
+   },
+   {
+      "Id":21,
+      "Price":1.0,
+      "Name":"Vegan Pretzel Buns",
+      "ImagePath":"https://i.pinimg.com/originals/f7/55/5a/f7555a5161544fb650044b82350ba411.png",
+      "Category":"Bread",
+      "IsChosen":false
+   },
+   {
+      "Id":22,
+      "Price":0.0,
+      "Name":"Onion Bagel",
+      "ImagePath":"https://i.pinimg.com/originals/12/a3/9f/12a39f62bd02ef4982dc99b21789d043.png",
+      "Category":"Bread",
+      "IsChosen":false
+   },
+   {
+      "Id":23,
+      "Price":0.0,
+      "Name":"Poppy Bagel",
+      "ImagePath":"https://i.pinimg.com/originals/d8/ea/18/d8ea18c83b49b87766bc19fe65f29b49.png",
+      "Category":"Bread",
+      "IsChosen":false
+   },
+   {
+      "Id":24,
+      "Price":0.5,
+      "Name":"Rainbow Bagel",
+      "ImagePath":"https://i.pinimg.com/originals/c7/3d/b0/c73db04b1fe8109336359b1750ee4fac.png",
+      "Category":"Bread",
+      "IsChosen":false
+   },
+   {
+      "Id":25,
+      "Price":0.0,
+      "Name":"Egg Bagel",
+      "ImagePath":"https://i.pinimg.com/originals/6f/b0/35/6fb035c36ec522396c55b57c6c919a4a.png",
+      "Category":"Bread",
+      "IsChosen":false
+   },
+   {
+      "Id":26,
+      "Price":0.5,
+      "Name":"Salt Bagel",
+      "ImagePath":"https://i.pinimg.com/originals/eb/ce/40/ebce40074b2e27493d48200487eda783.png",
+      "Category":"Bread",
+      "IsChosen":false
+   },
+   {
+      "Id":27,
+      "Price":0.0,
+      "Name":"Cheddar",
+      "ImagePath":"https://i.pinimg.com/originals/f3/fe/42/f3fe42db8cd58329a4099090c63c57bc.png",
+      "Category":"Cheese",
+      "IsChosen":false
+   },
+   {
+      "Id":28,
+      "Price":2.0,
+      "Name":"Parmesan",
+      "ImagePath":"https://i.pinimg.com/originals/79/d3/29/79d32953f2bbc1783ec21bee77e16dab.png",
+      "Category":"Cheese",
+      "IsChosen":false
+   },
+   {
+      "Id":29,
+      "Price":0.0,
+      "Name":"Tofu",
+      "ImagePath":"https://i.pinimg.com/originals/38/f4/c1/38f4c16d22f360248ecfe84b26236ec5.png",
+      "Category":"Cheese",
+      "IsChosen":false
+   },
+   {
+      "Id":30,
+      "Price":0.0,
+      "Name":"Feta",
+      "ImagePath":"https://i.pinimg.com/originals/07/2d/a7/072da7cc4d4fcc63a1281b40c97a099f.png",
+      "Category":"Cheese",
+      "IsChosen":false
+   },
+   {
+      "Id":31,
+      "Price":0.0,
+      "Name":"Mozzarella",
+      "ImagePath":"https://i.pinimg.com/originals/3b/33/01/3b330171dd967aa911a0dc9997ca1f1c.png",
+      "Category":"Cheese",
+      "IsChosen":false
+   },
+   {
+      "Id":32,
+      "Price":0.0,
+      "Name":"Chocolate",
+      "ImagePath":"https://i.pinimg.com/originals/87/1c/96/871c96ae6f6d4562b296a613cd982680.png",
+      "Category":"Toppings",
+      "IsChosen":false
+   },
+   {
+      "Id":33,
+      "Price":0.0,
+      "Name":"Strawberry",
+      "ImagePath":"https://i.pinimg.com/originals/7e/71/ff/7e71fff1d72307158f36b26be793d3a2.png",
+      "Category":"Toppings",
+      "IsChosen":false
+   },
+   {
+      "Id":34,
+      "Price":0.0,
+      "Name":"Caramel",
+      "ImagePath":"https://i.pinimg.com/originals/4d/78/a0/4d78a0ae7052265c988c46c2ab887470.png",
+      "Category":"Toppings",
+      "IsChosen":false
+   },
+   {
+      "Id":35,
+      "Price":0.50,
+      "Name":"Salted Caramel",
+      "ImagePath":"https://i.pinimg.com/originals/cf/c8/ed/cfc8edb338d017ae883b1766daa15b9d.png",
+      "Category":"Toppings",
+      "IsChosen":false
+   },
+   {
+      "Id":36,
+      "Price":0.0,
+      "Name":"Black Chocolate",
+      "ImagePath":"https://i.pinimg.com/originals/4c/cb/ba/4ccbbae3b3962ca668941f2059c3e27f.png",
+      "Category":"Chocolate",
+      "IsChosen":false
+   },
+   {
+      "Id":37,
+      "Price":0.0,
+      "Name":"Milk Chocolate",
+      "ImagePath":"https://i.pinimg.com/originals/c6/4c/18/c64c182981f15d3542c5e6504626f5ae.png",
+      "Category":"Chocolate",
+      "IsChosen":false
+   },
+   {
+      "Id":38,
+      "Price":0.0,
+      "Name":"White Chocolate",
+      "ImagePath":"https://i.pinimg.com/originals/38/ec/bc/38ecbc94c2525931fa541af762f3da6e.png",
+      "Category":"Chocolate",
+      "IsChosen":false
+   }
+]

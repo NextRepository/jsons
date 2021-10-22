@@ -1,0 +1,1477 @@
+[
+    {
+        "Id": 1,
+        "Customer": {
+            "Id": 1,
+            "Name": "Anika Septimus",
+            "Email": "Noel169@gmail.com",
+            "Phone": "8042631352",
+            "Birthday": null,
+            "Points": 177,
+            "Rewards": 1,
+            "GiftCards": [
+                {
+                    "Id": 1,
+                    "GiftCardNumber": "7777777777",
+                    "TotalBalance": 20.0
+                },
+                {
+                    "Id": 2,
+                    "GiftCardNumber": "5555555555",
+                    "TotalBalance": 50.0
+                }
+            ]
+        },
+        "Dish": {
+            "Id": 3,
+            "Name": "Bacon Cheese Burger Meal",
+            "Products": [
+                [
+                    {
+                        "Id": 16,
+                        "Name": "Bacon Cheese Burger",
+                        "IsEnabled": false,
+                        "IsChosen": true,
+                        "Comment": null,
+                        "ImagePath": "https://i.pinimg.com/originals/1a/04/da/1a04da3e4c59252fb919a76f30d5f7ce.png",
+                        "Inventories": [
+                            {
+                                "Id": 7,
+                                "Price": 0.0,
+                                "Name": "BBQ",
+                                "ImagePath": "https://i.pinimg.com/originals/2d/1a/4e/2d1a4ef933c5d6d56fbe96b0eb5af9e6.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 9,
+                                "Price": 0.0,
+                                "Name": "Blue Cheese",
+                                "ImagePath": "https://i.pinimg.com/originals/54/ad/1d/54ad1d439171604226ff03d38fcfa624.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 10,
+                                "Price": 0.0,
+                                "Name": "Spicy Mayo",
+                                "ImagePath": "https://i.pinimg.com/originals/ed/fd/93/edfd93f6363a17bdf56f5c166379ac1b.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 11,
+                                "Price": 0.0,
+                                "Name": "Remoulade",
+                                "ImagePath": "https://i.pinimg.com/originals/fc/a3/8e/fca38e20d76939dda7dc0c2ce37341ec.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 12,
+                                "Price": 0.0,
+                                "Name": "Mustard Aioli",
+                                "ImagePath": "https://i.pinimg.com/originals/18/b5/06/18b506c44c66f2736d46e6a9d71b17e9.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 17,
+                                "Price": 0.0,
+                                "Name": "Chicken",
+                                "ImagePath": "https://i.pinimg.com/originals/ea/86/e4/ea86e4169a6ef613a8a47430b64839ea.png",
+                                "Category": "Meats",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 18,
+                                "Price": 0.0,
+                                "Name": "Beef",
+                                "ImagePath": "https://i.pinimg.com/originals/ae/3c/55/ae3c55b4d6f7f1065464ff6340ffe88f.png",
+                                "Category": "Meats",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 19,
+                                "Price": 0.0,
+                                "Name": "Nut",
+                                "ImagePath": "https://i.pinimg.com/originals/fc/28/0d/fc280de02b5ee807479f57fdf45f4420.png",
+                                "Category": "Meats",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 20,
+                                "Price": 1.0,
+                                "Name": "Gluten Free Buns",
+                                "ImagePath": "https://i.pinimg.com/originals/f7/73/88/f77388a792d55082ea4894d01fd45177.png",
+                                "Category": "Bread",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 21,
+                                "Price": 1.0,
+                                "Name": "Vegan Pretzel Buns",
+                                "ImagePath": "https://i.pinimg.com/originals/f7/55/5a/f7555a5161544fb650044b82350ba411.png",
+                                "Category": "Bread",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 22,
+                                "Price": 0.0,
+                                "Name": "Onion Bagel",
+                                "ImagePath": "https://i.pinimg.com/originals/12/a3/9f/12a39f62bd02ef4982dc99b21789d043.png",
+                                "Category": "Bread",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 23,
+                                "Price": 0.0,
+                                "Name": "Poppy Bagel",
+                                "ImagePath": "https://i.pinimg.com/originals/d8/ea/18/d8ea18c83b49b87766bc19fe65f29b49.png",
+                                "Category": "Bread",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 24,
+                                "Price": 0.5,
+                                "Name": "Rainbow Bagel",
+                                "ImagePath": "https://i.pinimg.com/originals/c7/3d/b0/c73db04b1fe8109336359b1750ee4fac.png",
+                                "Category": "Bread",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 25,
+                                "Price": 0.0,
+                                "Name": "Egg Bagel",
+                                "ImagePath": "https://i.pinimg.com/originals/6f/b0/35/6fb035c36ec522396c55b57c6c919a4a.png",
+                                "Category": "Bread",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 26,
+                                "Price": 0.5,
+                                "Name": "Salt Bagel",
+                                "ImagePath": "https://i.pinimg.com/originals/eb/ce/40/ebce40074b2e27493d48200487eda783.png",
+                                "Category": "Bread",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 27,
+                                "Price": 0.0,
+                                "Name": "Cheddar",
+                                "ImagePath": "https://i.pinimg.com/originals/f3/fe/42/f3fe42db8cd58329a4099090c63c57bc.png",
+                                "Category": "Cheese",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 28,
+                                "Price": 2.0,
+                                "Name": "Parmesan",
+                                "ImagePath": "https://i.pinimg.com/originals/79/d3/29/79d32953f2bbc1783ec21bee77e16dab.png",
+                                "Category": "Cheese",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 29,
+                                "Price": 0.0,
+                                "Name": "Tofu",
+                                "ImagePath": "https://i.pinimg.com/originals/38/f4/c1/38f4c16d22f360248ecfe84b26236ec5.png",
+                                "Category": "Cheese",
+                                "IsChosen": false
+                            }
+                        ],
+                        "Options": [
+                            {
+                                "Id": 41,
+                                "Name": "Rare",
+                                "IsChosen": true
+                            },
+                            {
+                                "Id": 42,
+                                "Name": "Medium",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 43,
+                                "Name": "Well Done",
+                                "IsChosen": false
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "CategoryId": 1,
+            "SubcategoryId": 1,
+            "Proportions": [
+                {
+                    "Id": 7,
+                    "Name": "Small",
+                    "Price": 9.95,
+                    "IsChosen": true
+                },
+                {
+                    "Id": 8,
+                    "Name": "Medium",
+                    "Price": 11.95,
+                    "IsChosen": false
+                },
+                {
+                    "Id": 9,
+                    "Name": "Large",
+                    "Price": 13.95,
+                    "IsChosen": false
+                }
+            ],
+            "IsChoosedAsReward": false,
+            "OriginalPrice": 0.0,
+            "DiscountPrice": -1.0,
+            "TotalPrice": 0.0,
+            "SplitPrice": -1.0,
+            "ImagePath": "https://i.pinimg.com/originals/1a/04/da/1a04da3e4c59252fb919a76f30d5f7ce.png",
+            "ReleaseTime": "2021-12-01T07:01:11",
+            "Comment": null,
+            "HeldItemId": null,
+            "IsSplitted": false,
+            "SplitId": null
+        }
+    },
+    {
+        "Id": 2,
+        "Customer": {
+            "Id": 1,
+            "Name": "Anika Septimus",
+            "Email": "Noel169@gmail.com",
+            "Phone": "8042631352",
+            "Birthday": null,
+            "Points": 177,
+            "Rewards": 1,
+            "GiftCards": [
+                {
+                    "Id": 1,
+                    "GiftCardNumber": "7777777777",
+                    "TotalBalance": 20.0
+                },
+                {
+                    "Id": 2,
+                    "GiftCardNumber": "5555555555",
+                    "TotalBalance": 50.0
+                }
+            ]
+        },
+        "Dish": {
+            "Id": 4,
+            "Name": "Filet Mignon",
+            "Products": [
+                [
+                    {
+                        "Id": 1,
+                        "Name": "Filet Mignon",
+                        "IsEnabled": false,
+                        "IsChosen": true,
+                        "Comment": null,
+                        "ImagePath": "https://i.pinimg.com/originals/a5/71/d3/a571d3cd4b684c5fccd85d49541ef121.png",
+                        "Inventories": [
+                            {
+                                "Id": 1,
+                                "Price": 0.0,
+                                "Name": "Fries",
+                                "ImagePath": "https://i.pinimg.com/originals/f7/9c/76/f79c76837fbcb974c7589a10928b8461.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 2,
+                                "Price": 0.0,
+                                "Name": "Sweet Potato Fries",
+                                "ImagePath": "https://i.pinimg.com/originals/01/60/ba/0160ba7d21bd86f0491d1c2e2b4d6ccd.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 3,
+                                "Price": 3.0,
+                                "Name": "Grilled Vegetables",
+                                "ImagePath": "https://i.pinimg.com/originals/a2/88/0c/a2880c88a375e29f84114a6844164f8e.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 4,
+                                "Price": 2.0,
+                                "Name": "Mango Salsa",
+                                "ImagePath": "https://i.pinimg.com/originals/84/bc/62/84bc62d6ae08524791b15d25070dc2f8.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 6,
+                                "Price": 0.0,
+                                "Name": "Creamy Peppercorn",
+                                "ImagePath": "https://i.pinimg.com/originals/80/e6/55/80e655dac9034a17228b2d7e12623296.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 7,
+                                "Price": 0.0,
+                                "Name": "BBQ",
+                                "ImagePath": "https://i.pinimg.com/originals/2d/1a/4e/2d1a4ef933c5d6d56fbe96b0eb5af9e6.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 8,
+                                "Price": 0.0,
+                                "Name": "Cowboy Butter",
+                                "ImagePath": "https://i.pinimg.com/originals/ce/b4/8b/ceb48bae0cc5b006c6473e05ec19a747.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 9,
+                                "Price": 0.0,
+                                "Name": "Blue Cheese",
+                                "ImagePath": "https://i.pinimg.com/originals/54/ad/1d/54ad1d439171604226ff03d38fcfa624.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            }
+                        ],
+                        "Options": [
+                            {
+                                "Id": 1,
+                                "Name": "Rare",
+                                "IsChosen": true
+                            },
+                            {
+                                "Id": 2,
+                                "Name": "Medium",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 3,
+                                "Name": "Well Done",
+                                "IsChosen": false
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "CategoryId": 2,
+            "SubcategoryId": 5,
+            "Proportions": [
+                {
+                    "Id": 10,
+                    "Name": "Small",
+                    "Price": 45.40,
+                    "IsChosen": true
+                },
+                {
+                    "Id": 11,
+                    "Name": "Medium",
+                    "Price": 50.40,
+                    "IsChosen": false
+                },
+                {
+                    "Id": 12,
+                    "Name": "Large",
+                    "Price": 55.40,
+                    "IsChosen": false
+                }
+            ],
+            "IsChoosedAsReward": false,
+            "OriginalPrice": 0.0,
+            "DiscountPrice": -1.0,
+            "TotalPrice": 0.0,
+            "SplitPrice": -1.0,
+            "ImagePath": "https://i.pinimg.com/originals/a5/71/d3/a571d3cd4b684c5fccd85d49541ef121.png",
+            "ReleaseTime": "2021-12-01T06:03:19",
+            "Comment": null,
+            "HeldItemId": null,
+            "IsSplitted": false,
+            "SplitId": null
+        }
+    },
+    {
+        "Id": 3,
+        "Customer": {
+            "Id": 1,
+            "Name": "Anika Septimus",
+            "Email": "Noel169@gmail.com",
+            "Phone": "8042631352",
+            "Birthday": null,
+            "Points": 177,
+            "Rewards": 1,
+            "GiftCards": [
+                {
+                    "Id": 1,
+                    "GiftCardNumber": "7777777777",
+                    "TotalBalance": 20.0
+                },
+                {
+                    "Id": 2,
+                    "GiftCardNumber": "5555555555",
+                    "TotalBalance": 50.0
+                }
+            ]
+        },
+        "Dish": {
+            "Id": 5,
+            "Name": "Bone-In Filet",
+            "Products": [
+                [
+                    {
+                        "Id": 2,
+                        "Name": "Bone-In Filet",
+                        "IsEnabled": false,
+                        "IsChosen": true,
+                        "Comment": null,
+                        "ImagePath": "https://i.pinimg.com/originals/b3/df/29/b3df29fc2b4364280a1dbd48b18e543f.png",
+                        "Inventories": [
+                            {
+                                "Id": 1,
+                                "Price": 0.0,
+                                "Name": "Fries",
+                                "ImagePath": "https://i.pinimg.com/originals/f7/9c/76/f79c76837fbcb974c7589a10928b8461.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 2,
+                                "Price": 0.0,
+                                "Name": "Sweet Potato Fries",
+                                "ImagePath": "https://i.pinimg.com/originals/01/60/ba/0160ba7d21bd86f0491d1c2e2b4d6ccd.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 3,
+                                "Price": 3.0,
+                                "Name": "Grilled Vegetables",
+                                "ImagePath": "https://i.pinimg.com/originals/a2/88/0c/a2880c88a375e29f84114a6844164f8e.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 4,
+                                "Price": 2.0,
+                                "Name": "Mango Salsa",
+                                "ImagePath": "https://i.pinimg.com/originals/84/bc/62/84bc62d6ae08524791b15d25070dc2f8.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 6,
+                                "Price": 0.0,
+                                "Name": "Creamy Peppercorn",
+                                "ImagePath": "https://i.pinimg.com/originals/80/e6/55/80e655dac9034a17228b2d7e12623296.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 7,
+                                "Price": 0.0,
+                                "Name": "BBQ",
+                                "ImagePath": "https://i.pinimg.com/originals/2d/1a/4e/2d1a4ef933c5d6d56fbe96b0eb5af9e6.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 8,
+                                "Price": 0.0,
+                                "Name": "Cowboy Butter",
+                                "ImagePath": "https://i.pinimg.com/originals/ce/b4/8b/ceb48bae0cc5b006c6473e05ec19a747.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 9,
+                                "Price": 0.0,
+                                "Name": "Blue Cheese",
+                                "ImagePath": "https://i.pinimg.com/originals/54/ad/1d/54ad1d439171604226ff03d38fcfa624.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            }
+                        ],
+                        "Options": [
+                            {
+                                "Id": 4,
+                                "Name": "Rare",
+                                "IsChosen": true
+                            },
+                            {
+                                "Id": 5,
+                                "Name": "Medium",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 6,
+                                "Name": "Well Done",
+                                "IsChosen": false
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "CategoryId": 2,
+            "SubcategoryId": 5,
+            "Proportions": [
+                {
+                    "Id": 13,
+                    "Name": "Small",
+                    "Price": 71.0,
+                    "IsChosen": true
+                },
+                {
+                    "Id": 14,
+                    "Name": "Medium",
+                    "Price": 74.0,
+                    "IsChosen": false
+                },
+                {
+                    "Id": 15,
+                    "Name": "Large",
+                    "Price": 77.0,
+                    "IsChosen": false
+                }
+            ],
+            "IsChoosedAsReward": false,
+            "OriginalPrice": 0.0,
+            "DiscountPrice": -1.0,
+            "TotalPrice": 0.0,
+            "SplitPrice": -1.0,
+            "ImagePath": "https://i.pinimg.com/originals/b3/df/29/b3df29fc2b4364280a1dbd48b18e543f.png",
+            "ReleaseTime": "2021-12-01T06:03:19",
+            "Comment": null,
+            "HeldItemId": null,
+            "IsSplitted": false,
+            "SplitId": null
+        }
+    },
+    {
+        "Id": 4,
+        "Customer": {
+            "Id": 1,
+            "Name": "Anika Septimus",
+            "Email": "Noel169@gmail.com",
+            "Phone": "8042631352",
+            "Birthday": null,
+            "Points": 177,
+            "Rewards": 1,
+            "GiftCards": [
+                {
+                    "Id": 1,
+                    "GiftCardNumber": "7777777777",
+                    "TotalBalance": 20.0
+                },
+                {
+                    "Id": 2,
+                    "GiftCardNumber": "5555555555",
+                    "TotalBalance": 50.0
+                }
+            ]
+        },
+        "Dish": {
+            "Id": 6,
+            "Name": "Bone-In Prime Ribeye",
+            "Products": [
+                [
+                    {
+                        "Id": 3,
+                        "Name": "Bone-In Prime Ribeye",
+                        "IsEnabled": false,
+                        "IsChosen": true,
+                        "Comment": null,
+                        "ImagePath": "https://i.pinimg.com/originals/90/39/35/90393524a5b8c0683ee5ab303af0b14f.png",
+                        "Inventories": [
+                            {
+                                "Id": 1,
+                                "Price": 0.0,
+                                "Name": "Fries",
+                                "ImagePath": "https://i.pinimg.com/originals/f7/9c/76/f79c76837fbcb974c7589a10928b8461.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 2,
+                                "Price": 0.0,
+                                "Name": "Sweet Potato Fries",
+                                "ImagePath": "https://i.pinimg.com/originals/01/60/ba/0160ba7d21bd86f0491d1c2e2b4d6ccd.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 3,
+                                "Price": 3.0,
+                                "Name": "Grilled Vegetables",
+                                "ImagePath": "https://i.pinimg.com/originals/a2/88/0c/a2880c88a375e29f84114a6844164f8e.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 4,
+                                "Price": 2.0,
+                                "Name": "Mango Salsa",
+                                "ImagePath": "https://i.pinimg.com/originals/84/bc/62/84bc62d6ae08524791b15d25070dc2f8.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 6,
+                                "Price": 0.0,
+                                "Name": "Creamy Peppercorn",
+                                "ImagePath": "https://i.pinimg.com/originals/80/e6/55/80e655dac9034a17228b2d7e12623296.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 7,
+                                "Price": 0.0,
+                                "Name": "BBQ",
+                                "ImagePath": "https://i.pinimg.com/originals/2d/1a/4e/2d1a4ef933c5d6d56fbe96b0eb5af9e6.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 8,
+                                "Price": 0.0,
+                                "Name": "Cowboy Butter",
+                                "ImagePath": "https://i.pinimg.com/originals/ce/b4/8b/ceb48bae0cc5b006c6473e05ec19a747.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 9,
+                                "Price": 0.0,
+                                "Name": "Blue Cheese",
+                                "ImagePath": "https://i.pinimg.com/originals/54/ad/1d/54ad1d439171604226ff03d38fcfa624.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            }
+                        ],
+                        "Options": [
+                            {
+                                "Id": 7,
+                                "Name": "Rare",
+                                "IsChosen": true
+                            },
+                            {
+                                "Id": 8,
+                                "Name": "Medium",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 9,
+                                "Name": "Well Done",
+                                "IsChosen": false
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "CategoryId": 2,
+            "SubcategoryId": 5,
+            "Proportions": [
+                {
+                    "Id": 16,
+                    "Name": "Small",
+                    "Price": 70.50,
+                    "IsChosen": true
+                },
+                {
+                    "Id": 17,
+                    "Name": "Medium",
+                    "Price": 72.50,
+                    "IsChosen": false
+                },
+                {
+                    "Id": 18,
+                    "Name": "Large",
+                    "Price": 75.0,
+                    "IsChosen": false
+                }
+            ],
+            "IsChoosedAsReward": false,
+            "OriginalPrice": 0.0,
+            "DiscountPrice": -1.0,
+            "TotalPrice": 0.0,
+            "SplitPrice": -1.0,
+            "ImagePath": "https://i.pinimg.com/originals/90/39/35/90393524a5b8c0683ee5ab303af0b14f.png",
+            "ReleaseTime": "2021-12-01T06:03:19",
+            "Comment": null,
+            "HeldItemId": null,
+            "IsSplitted": false,
+            "SplitId": null
+        }
+    },
+    {
+        "Id": 5,
+        "Customer": {
+            "Id": 2,
+            "Name": "Ann Stanton",
+            "Email": "ann.stanton@gmail.com",
+            "Phone": "7482595472",
+            "Birthday": null,
+            "Points": 50,
+            "Rewards": 3,
+            "GiftCards": [
+                {
+                    "Id": 3,
+                    "GiftCardNumber": "3333333333",
+                    "TotalBalance": 100.0
+                }
+            ]
+        },
+        "Dish": {
+            "Id": 7,
+            "Name": "Prime Porterhouse",
+            "Products": [
+                [
+                    {
+                        "Id": 4,
+                        "Name": "Prime Porterhouse",
+                        "IsEnabled": false,
+                        "IsChosen": true,
+                        "Comment": null,
+                        "ImagePath": "https://i.pinimg.com/originals/d0/6e/d7/d06ed7e49471a4772ece862ce5e40a9a.png",
+                        "Inventories": [
+                            {
+                                "Id": 1,
+                                "Price": 0.0,
+                                "Name": "Fries",
+                                "ImagePath": "https://i.pinimg.com/originals/f7/9c/76/f79c76837fbcb974c7589a10928b8461.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 2,
+                                "Price": 0.0,
+                                "Name": "Sweet Potato Fries",
+                                "ImagePath": "https://i.pinimg.com/originals/01/60/ba/0160ba7d21bd86f0491d1c2e2b4d6ccd.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 3,
+                                "Price": 3.0,
+                                "Name": "Grilled Vegetables",
+                                "ImagePath": "https://i.pinimg.com/originals/a2/88/0c/a2880c88a375e29f84114a6844164f8e.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 4,
+                                "Price": 2.0,
+                                "Name": "Mango Salsa",
+                                "ImagePath": "https://i.pinimg.com/originals/84/bc/62/84bc62d6ae08524791b15d25070dc2f8.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 6,
+                                "Price": 0.0,
+                                "Name": "Creamy Peppercorn",
+                                "ImagePath": "https://i.pinimg.com/originals/80/e6/55/80e655dac9034a17228b2d7e12623296.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 7,
+                                "Price": 0.0,
+                                "Name": "BBQ",
+                                "ImagePath": "https://i.pinimg.com/originals/2d/1a/4e/2d1a4ef933c5d6d56fbe96b0eb5af9e6.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 8,
+                                "Price": 0.0,
+                                "Name": "Cowboy Butter",
+                                "ImagePath": "https://i.pinimg.com/originals/ce/b4/8b/ceb48bae0cc5b006c6473e05ec19a747.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 9,
+                                "Price": 0.0,
+                                "Name": "Blue Cheese",
+                                "ImagePath": "https://i.pinimg.com/originals/54/ad/1d/54ad1d439171604226ff03d38fcfa624.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            }
+                        ],
+                        "Options": [
+                            {
+                                "Id": 10,
+                                "Name": "Rare",
+                                "IsChosen": true
+                            },
+                            {
+                                "Id": 11,
+                                "Name": "Medium",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 12,
+                                "Name": "Well Done",
+                                "IsChosen": false
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "CategoryId": 2,
+            "SubcategoryId": 5,
+            "Proportions": [
+                {
+                    "Id": 19,
+                    "Name": "Small",
+                    "Price": 45.40,
+                    "IsChosen": true
+                },
+                {
+                    "Id": 20,
+                    "Name": "Medium",
+                    "Price": 50.40,
+                    "IsChosen": false
+                },
+                {
+                    "Id": 21,
+                    "Name": "Large",
+                    "Price": 55.40,
+                    "IsChosen": false
+                }
+            ],
+            "IsChoosedAsReward": false,
+            "OriginalPrice": 0.0,
+            "DiscountPrice": -1.0,
+            "TotalPrice": 0.0,
+            "SplitPrice": -1.0,
+            "ImagePath": "https://i.pinimg.com/originals/d0/6e/d7/d06ed7e49471a4772ece862ce5e40a9a.png",
+            "ReleaseTime": "2021-12-01T06:03:19",
+            "Comment": null,
+            "HeldItemId": null,
+            "IsSplitted": false,
+            "SplitId": null
+        }
+    },
+    {
+        "Id": 6,
+        "Customer": {
+            "Id": 2,
+            "Name": "Ann Stanton",
+            "Email": "ann.stanton@gmail.com",
+            "Phone": "7482595472",
+            "Birthday": null,
+            "Points": 50,
+            "Rewards": 3,
+            "GiftCards": [
+                {
+                    "Id": 3,
+                    "GiftCardNumber": "3333333333",
+                    "TotalBalance": 100.0
+                }
+            ]
+        },
+        "Dish": {
+            "Id": 8,
+            "Name": "Prime T-bone",
+            "Products": [
+                [
+                    {
+                        "Id": 5,
+                        "Name": "Prime T-bone",
+                        "IsEnabled": false,
+                        "IsChosen": true,
+                        "Comment": null,
+                        "ImagePath": "https://i.pinimg.com/originals/0b/e7/a9/0be7a90925f84e83defafdbe8e1d9767.png",
+                        "Inventories": [
+                            {
+                                "Id": 1,
+                                "Price": 0.0,
+                                "Name": "Fries",
+                                "ImagePath": "https://i.pinimg.com/originals/f7/9c/76/f79c76837fbcb974c7589a10928b8461.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 2,
+                                "Price": 0.0,
+                                "Name": "Sweet Potato Fries",
+                                "ImagePath": "https://i.pinimg.com/originals/01/60/ba/0160ba7d21bd86f0491d1c2e2b4d6ccd.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 3,
+                                "Price": 3.0,
+                                "Name": "Grilled Vegetables",
+                                "ImagePath": "https://i.pinimg.com/originals/a2/88/0c/a2880c88a375e29f84114a6844164f8e.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 4,
+                                "Price": 2.0,
+                                "Name": "Mango Salsa",
+                                "ImagePath": "https://i.pinimg.com/originals/84/bc/62/84bc62d6ae08524791b15d25070dc2f8.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 6,
+                                "Price": 0.0,
+                                "Name": "Creamy Peppercorn",
+                                "ImagePath": "https://i.pinimg.com/originals/80/e6/55/80e655dac9034a17228b2d7e12623296.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 7,
+                                "Price": 0.0,
+                                "Name": "BBQ",
+                                "ImagePath": "https://i.pinimg.com/originals/2d/1a/4e/2d1a4ef933c5d6d56fbe96b0eb5af9e6.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 8,
+                                "Price": 0.0,
+                                "Name": "Cowboy Butter",
+                                "ImagePath": "https://i.pinimg.com/originals/ce/b4/8b/ceb48bae0cc5b006c6473e05ec19a747.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 9,
+                                "Price": 0.0,
+                                "Name": "Blue Cheese",
+                                "ImagePath": "https://i.pinimg.com/originals/54/ad/1d/54ad1d439171604226ff03d38fcfa624.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            }
+                        ],
+                        "Options": [
+                            {
+                                "Id": 13,
+                                "Name": "Rare",
+                                "IsChosen": true
+                            },
+                            {
+                                "Id": 14,
+                                "Name": "Medium",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 15,
+                                "Name": "Well Done",
+                                "IsChosen": false
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "CategoryId": 2,
+            "SubcategoryId": 5,
+            "Proportions": [
+                {
+                    "Id": 22,
+                    "Name": "Small",
+                    "Price": 44.40,
+                    "IsChosen": true
+                },
+                {
+                    "Id": 23,
+                    "Name": "Medium",
+                    "Price": 45.40,
+                    "IsChosen": false
+                },
+                {
+                    "Id": 24,
+                    "Name": "Large",
+                    "Price": 47.40,
+                    "IsChosen": false
+                }
+            ],
+            "IsChoosedAsReward": false,
+            "OriginalPrice": 0.0,
+            "DiscountPrice": -1.0,
+            "TotalPrice": 0.0,
+            "SplitPrice": -1.0,
+            "ImagePath": "https://i.pinimg.com/originals/0b/e7/a9/0be7a90925f84e83defafdbe8e1d9767.png",
+            "ReleaseTime": "2021-12-01T06:03:19",
+            "Comment": null,
+            "HeldItemId": null,
+            "IsSplitted": false,
+            "SplitId": null
+        }
+    },
+    {
+        "Id": 7,
+        "Customer": {
+            "Id": 2,
+            "Name": "Ann Stanton",
+            "Email": "ann.stanton@gmail.com",
+            "Phone": "7482595472",
+            "Birthday": null,
+            "Points": 50,
+            "Rewards": 3,
+            "GiftCards": [
+                {
+                    "Id": 3,
+                    "GiftCardNumber": "3333333333",
+                    "TotalBalance": 100.0
+                }
+            ]
+        },
+        "Dish": {
+            "Id": 9,
+            "Name": "Wagyu Tomahawk Ribeye",
+            "Products": [
+                [
+                    {
+                        "Id": 6,
+                        "Name": "Wagyu Tomahawk Ribeye",
+                        "IsEnabled": false,
+                        "IsChosen": true,
+                        "Comment": null,
+                        "ImagePath": "https://i.pinimg.com/originals/af/04/39/af0439887602b62bcc1fdcc910b71e74.png",
+                        "Inventories": [
+                            {
+                                "Id": 1,
+                                "Price": 0.0,
+                                "Name": "Fries",
+                                "ImagePath": "https://i.pinimg.com/originals/f7/9c/76/f79c76837fbcb974c7589a10928b8461.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 2,
+                                "Price": 0.0,
+                                "Name": "Sweet Potato Fries",
+                                "ImagePath": "https://i.pinimg.com/originals/01/60/ba/0160ba7d21bd86f0491d1c2e2b4d6ccd.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 3,
+                                "Price": 3.0,
+                                "Name": "Grilled Vegetables",
+                                "ImagePath": "https://i.pinimg.com/originals/a2/88/0c/a2880c88a375e29f84114a6844164f8e.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 4,
+                                "Price": 2.0,
+                                "Name": "Mango Salsa",
+                                "ImagePath": "https://i.pinimg.com/originals/84/bc/62/84bc62d6ae08524791b15d25070dc2f8.png",
+                                "Category": "Sides & Snack",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 6,
+                                "Price": 0.0,
+                                "Name": "Creamy Peppercorn",
+                                "ImagePath": "https://i.pinimg.com/originals/80/e6/55/80e655dac9034a17228b2d7e12623296.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 7,
+                                "Price": 0.0,
+                                "Name": "BBQ",
+                                "ImagePath": "https://i.pinimg.com/originals/2d/1a/4e/2d1a4ef933c5d6d56fbe96b0eb5af9e6.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 8,
+                                "Price": 0.0,
+                                "Name": "Cowboy Butter",
+                                "ImagePath": "https://i.pinimg.com/originals/ce/b4/8b/ceb48bae0cc5b006c6473e05ec19a747.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 9,
+                                "Price": 0.0,
+                                "Name": "Blue Cheese",
+                                "ImagePath": "https://i.pinimg.com/originals/54/ad/1d/54ad1d439171604226ff03d38fcfa624.png",
+                                "Category": "Sauce",
+                                "IsChosen": false
+                            }
+                        ],
+                        "Options": [
+                            {
+                                "Id": 16,
+                                "Name": "Rare",
+                                "IsChosen": true
+                            },
+                            {
+                                "Id": 17,
+                                "Name": "Medium",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 18,
+                                "Name": "Well Done",
+                                "IsChosen": false
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "CategoryId": 2,
+            "SubcategoryId": 5,
+            "Proportions": [
+                {
+                    "Id": 25,
+                    "Name": "Small",
+                    "Price": 42.70,
+                    "IsChosen": true
+                },
+                {
+                    "Id": 26,
+                    "Name": "Medium",
+                    "Price": 45.70,
+                    "IsChosen": false
+                },
+                {
+                    "Id": 27,
+                    "Name": "Large",
+                    "Price": 46.90,
+                    "IsChosen": false
+                }
+            ],
+            "IsChoosedAsReward": false,
+            "OriginalPrice": 0.0,
+            "DiscountPrice": -1.0,
+            "TotalPrice": 0.0,
+            "SplitPrice": -1.0,
+            "ImagePath": "https://i.pinimg.com/originals/af/04/39/af0439887602b62bcc1fdcc910b71e74.png",
+            "ReleaseTime": "2021-12-01T06:03:19",
+            "Comment": null,
+            "HeldItemId": null,
+            "IsSplitted": false,
+            "SplitId": null
+        }
+    },
+    {
+        "Id": 8,
+        "Customer": {
+            "Id": 2,
+            "Name": "Ann Stanton",
+            "Email": "ann.stanton@gmail.com",
+            "Phone": "7482595472",
+            "Birthday": null,
+            "Points": 50,
+            "Rewards": 3,
+            "GiftCards": [
+                {
+                    "Id": 3,
+                    "GiftCardNumber": "3333333333",
+                    "TotalBalance": 100.0
+                }
+            ]
+        },
+        "Dish": {
+            "Id": 10,
+            "Name": "Classic Nachos",
+            "Products": [
+                [
+                    {
+                        "Id": 7,
+                        "Name": "Classic Nachos",
+                        "IsEnabled": false,
+                        "IsChosen": true,
+                        "Comment": null,
+                        "ImagePath": "https://i.pinimg.com/originals/97/ea/11/97ea117c1fea6b5f983e3182025ed662.png",
+                        "Inventories": [
+                            {
+                                "Id": 14,
+                                "Price": 3.75,
+                                "Name": "Guacamole",
+                                "ImagePath": "https://i.pinimg.com/originals/1f/87/88/1f8788f841e4027f50c4ec1ab2353978.png",
+                                "Category": "Vegetables",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 15,
+                                "Price": 6.0,
+                                "Name": "Grilled Chicken",
+                                "ImagePath": "https://i.pinimg.com/originals/ea/86/e4/ea86e4169a6ef613a8a47430b64839ea.png",
+                                "Category": "Meats",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 16,
+                                "Price": 7.0,
+                                "Name": "Grilled Steak",
+                                "ImagePath": "https://i.pinimg.com/originals/67/45/35/674535ebbdca39de9c7a323b35a538cc.png",
+                                "Category": "Meats",
+                                "IsChosen": false
+                            }
+                        ],
+                        "Options": [
+                            {
+                                "Id": 19,
+                                "Name": "Spicy",
+                                "IsChosen": true
+                            },
+                            {
+                                "Id": 20,
+                                "Name": "Not spicy",
+                                "IsChosen": false
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "CategoryId": 3,
+            "SubcategoryId": 5,
+            "Proportions": [
+                {
+                    "Id": 28,
+                    "Name": "Small",
+                    "Price": 12.95,
+                    "IsChosen": true
+                },
+                {
+                    "Id": 29,
+                    "Name": "Medium",
+                    "Price": 14.95,
+                    "IsChosen": false
+                },
+                {
+                    "Id": 30,
+                    "Name": "Large",
+                    "Price": 15.95,
+                    "IsChosen": false
+                }
+            ],
+            "IsChoosedAsReward": false,
+            "OriginalPrice": 0.0,
+            "DiscountPrice": -1.0,
+            "TotalPrice": 0.0,
+            "SplitPrice": -1.0,
+            "ImagePath": "https://i.pinimg.com/originals/97/ea/11/97ea117c1fea6b5f983e3182025ed662.png",
+            "ReleaseTime": "2021-12-01T07:01:11",
+            "Comment": null,
+            "HeldItemId": null,
+            "IsSplitted": false,
+            "SplitId": null
+        }
+    },
+    {
+        "Id": 9,
+        "Customer": {
+            "Id": 2,
+            "Name": "Ann Stanton",
+            "Email": "ann.stanton@gmail.com",
+            "Phone": "7482595472",
+            "Birthday": null,
+            "Points": 50,
+            "Rewards": 3,
+            "GiftCards": [
+                {
+                    "Id": 3,
+                    "GiftCardNumber": "3333333333",
+                    "TotalBalance": 100.0
+                }
+            ]
+        },
+        "Dish": {
+            "Id": 11,
+            "Name": "One Night In Bangkok Spicy Shrimp",
+            "Products": [
+                [
+                    {
+                        "Id": 8,
+                        "Name": "One Night In Bangkok Spicy Shrimp",
+                        "IsEnabled": false,
+                        "IsChosen": true,
+                        "Comment": null,
+                        "ImagePath": "https://i.pinimg.com/originals/87/5e/78/875e7877638b9a0cd1936fe9dd7af61f.png",
+                        "Inventories": [
+                            {
+                                "Id": 14,
+                                "Price": 3.75,
+                                "Name": "Guacamole",
+                                "ImagePath": "https://i.pinimg.com/originals/1f/87/88/1f8788f841e4027f50c4ec1ab2353978.png",
+                                "Category": "Vegetables",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 15,
+                                "Price": 6.0,
+                                "Name": "Grilled Chicken",
+                                "ImagePath": "https://i.pinimg.com/originals/ea/86/e4/ea86e4169a6ef613a8a47430b64839ea.png",
+                                "Category": "Meats",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 16,
+                                "Price": 7.0,
+                                "Name": "Grilled Steak",
+                                "ImagePath": "https://i.pinimg.com/originals/67/45/35/674535ebbdca39de9c7a323b35a538cc.png",
+                                "Category": "Meats",
+                                "IsChosen": false
+                            }
+                        ],
+                        "Options": [
+                            {
+                                "Id": 21,
+                                "Name": "Spicy",
+                                "IsChosen": true
+                            },
+                            {
+                                "Id": 22,
+                                "Name": "Not spicy",
+                                "IsChosen": false
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "CategoryId": 3,
+            "SubcategoryId": 5,
+            "Proportions": [
+                {
+                    "Id": 31,
+                    "Name": "Small",
+                    "Price": 15.95,
+                    "IsChosen": true
+                },
+                {
+                    "Id": 32,
+                    "Name": "Medium",
+                    "Price": 16.95,
+                    "IsChosen": false
+                },
+                {
+                    "Id": 33,
+                    "Name": "Large",
+                    "Price": 17.95,
+                    "IsChosen": false
+                }
+            ],
+            "IsChoosedAsReward": false,
+            "OriginalPrice": 0.0,
+            "DiscountPrice": -1.0,
+            "TotalPrice": 0.0,
+            "SplitPrice": -1.0,
+            "ImagePath": "https://i.pinimg.com/originals/87/5e/78/875e7877638b9a0cd1936fe9dd7af61f.png",
+            "ReleaseTime": "2021-12-01T07:01:11",
+            "Comment": null,
+            "HeldItemId": null,
+            "IsSplitted": false,
+            "SplitId": null
+        }
+    },
+    {
+        "Id": 10,
+        "Customer": {
+            "Id": 2,
+            "Name": "Ann Stanton",
+            "Email": "ann.stanton@gmail.com",
+            "Phone": "7482595472",
+            "Birthday": null,
+            "Points": 50,
+            "Rewards": 3,
+            "GiftCards": [
+                {
+                    "Id": 3,
+                    "GiftCardNumber": "3333333333",
+                    "TotalBalance": 100.0
+                }
+            ]
+        },
+        "Dish": {
+            "Id": 12,
+            "Name": "Wings",
+            "Products": [
+                [
+                    {
+                        "Id": 9,
+                        "Name": "Wings",
+                        "IsEnabled": false,
+                        "IsChosen": true,
+                        "Comment": null,
+                        "ImagePath": "https://i.pinimg.com/originals/ee/cd/76/eecd768f754fc004cb853d706e726c08.png",
+                        "Inventories": [
+                            {
+                                "Id": 14,
+                                "Price": 3.75,
+                                "Name": "Guacamole",
+                                "ImagePath": "https://i.pinimg.com/originals/1f/87/88/1f8788f841e4027f50c4ec1ab2353978.png",
+                                "Category": "Vegetables",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 15,
+                                "Price": 6.0,
+                                "Name": "Grilled Chicken",
+                                "ImagePath": "https://i.pinimg.com/originals/ea/86/e4/ea86e4169a6ef613a8a47430b64839ea.png",
+                                "Category": "Meats",
+                                "IsChosen": false
+                            },
+                            {
+                                "Id": 16,
+                                "Price": 7.0,
+                                "Name": "Grilled Steak",
+                                "ImagePath": "https://i.pinimg.com/originals/67/45/35/674535ebbdca39de9c7a323b35a538cc.png",
+                                "Category": "Meats",
+                                "IsChosen": false
+                            }
+                        ],
+                        "Options": [
+                            {
+                                "Id": 23,
+                                "Name": "Spicy",
+                                "IsChosen": true
+                            },
+                            {
+                                "Id": 24,
+                                "Name": "Not spicy",
+                                "IsChosen": false
+                            }
+                        ]
+                    }
+                ]
+            ],
+            "CategoryId": 3,
+            "SubcategoryId": 5,
+            "Proportions": [
+                {
+                    "Id": 34,
+                    "Name": "Small",
+                    "Price": 15.95,
+                    "IsChosen": true
+                },
+                {
+                    "Id": 35,
+                    "Name": "Medium",
+                    "Price": 16.95,
+                    "IsChosen": false
+                },
+                {
+                    "Id": 36,
+                    "Name": "Large",
+                    "Price": 17.95,
+                    "IsChosen": false
+                }
+            ],
+            "IsChoosedAsReward": false,
+            "OriginalPrice": 0.0,
+            "DiscountPrice": -1.0,
+            "TotalPrice": 0.0,
+            "SplitPrice": -1.0,
+            "ImagePath": "https://i.pinimg.com/originals/ee/cd/76/eecd768f754fc004cb853d706e726c08.png",
+            "ReleaseTime": "2021-12-01T07:01:11",
+            "Comment": null,
+            "HeldItemId": null,
+            "IsSplitted": false,
+            "SplitId": null
+        }
+    }
+]

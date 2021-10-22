@@ -1,0 +1,17 @@
+[
+    {
+        "Id": 4,
+        "GiftCardNumber": "0123456789",
+        "TotalBalance": 20.0
+    },
+    {
+        "Id": 5,
+        "GiftCardNumber": "9876543210",
+        "TotalBalance": 50.0
+    },
+    {
+        "Id": 6,
+        "GiftCardNumber": "9999999999",
+        "TotalBalance": 100.0
+    }
+]

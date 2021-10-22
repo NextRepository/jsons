@@ -1,0 +1,169 @@
+[
+    {
+        "Id": 1,
+        "Name": "Anika Septimus",
+        "Email": "Noel169@gmail.com",
+        "Phone": "8042631352",
+        "Birthday": null,
+        "Points": 177,
+        "Rewards": 1,
+        "GiftCards": [
+            {
+                "Id": 1,
+                "GiftCardNumber": "7777777777",
+                "TotalBalance": 20.0
+            },
+            {
+                "Id": 2,
+                "GiftCardNumber": "5555555555",
+                "TotalBalance": 50.0
+            }
+        ]
+    },
+    {
+        "Id": 2,
+        "Name": "Ann Stanton",
+        "Email": "ann.stanton@gmail.com",
+        "Phone": "7482595472",
+        "Birthday": null,
+        "Points": 50,
+        "Rewards": 3,
+        "GiftCards": [
+            {
+                "Id": 3,
+                "GiftCardNumber": "3333333333",
+                "TotalBalance": 100.0
+            }
+        ]
+    },
+    {
+        "Id": 3,
+        "Name": "Eli Kranlon",
+        "Email": "eLi.kranlon@gmail.com",
+        "Phone": "4689564376",
+        "Birthday": null,
+        "Points": 217,
+        "Rewards": 5,
+        "GiftCards": null
+    },
+    {
+        "Id": 4,
+        "Name": "Chance Workman",
+        "Email": "workman46@gmail.com",
+        "Phone": "3769454508",
+        "Birthday": null,
+        "Points": 22,
+        "Rewards": 2,
+        "GiftCards": null
+    },
+    {
+        "Id": 5,
+        "Name": "Erik Dokidis",
+        "Email": "erik.dokidis@gmail.com",
+        "Phone": "3879366548",
+        "Birthday": null,
+        "Points": 50,
+        "Rewards": 4,
+        "GiftCards": null
+    },
+    {
+        "Id": 6,
+        "Name": "Kiana Septimus",
+        "Email": "KianaSeptimus@gmail.com",
+        "Phone": "1571277241",
+        "Birthday": null,
+        "Points": 135,
+        "Rewards": 1,
+        "GiftCards": null
+    },
+    {
+        "Id": 7,
+        "Name": "Leo Curtis",
+        "Email": "Leonel24@gmail.com",
+        "Phone": "7243952461",
+        "Birthday": null,
+        "Points": 177,
+        "Rewards": 3,
+        "GiftCards": null
+    },
+    {
+        "Id": 8,
+        "Name": "Liva Torff",
+        "Email": "livorff@gmail.com",
+        "Phone": "6461757369",
+        "Birthday": null,
+        "Points": 217,
+        "Rewards": 5,
+        "GiftCards": null
+    },
+    {
+        "Id": 9,
+        "Name": "Maria Siphron",
+        "Email": "mariaSiph@gmail.com",
+        "Phone": "3475903018",
+        "Birthday": null,
+        "Points": 22,
+        "Rewards": 2,
+        "GiftCards": null
+    },
+    {
+        "Id": 10,
+        "Name": "Marley Lubin",
+        "Email": "marley756@gmail.com",
+        "Phone": "0525328452",
+        "Birthday": null,
+        "Points": 50,
+        "Rewards": 4,
+        "GiftCards": null
+    },
+    {
+        "Id": 11,
+        "Name": "Ryan George",
+        "Email": "ryan@gmail.com",
+        "Phone": "9575359472",
+        "Birthday": null,
+        "Points": 135,
+        "Rewards": 2,
+        "GiftCards": null
+    },
+    {
+        "Id": 12,
+        "Name": "Zaine Saris",
+        "Email": "zaine.saris@gmail.com",
+        "Phone": "6470948643",
+        "Birthday": null,
+        "Points": 135,
+        "Rewards": 4,
+        "GiftCards": null
+    },
+    {
+        "Id": 13,
+        "Name": "Carter Press",
+        "Email": "carter.Nove@gmail.com",
+        "Phone": "4908303762",
+        "Birthday": null,
+        "Points": 134,
+        "Rewards": 3,
+        "GiftCards": null
+    },
+    {
+        "Id": 14,
+        "Name": "Wilson Bator",
+        "Email": "wilson.Bator@gmail.com",
+        "Phone": "9178758541",
+        "Birthday": null,
+        "Points": 67,
+        "Rewards": 1,
+        "GiftCards": null
+    },
+    {
+        "Id": 15,
+        "Name": "Cooper Vaccaro",
+        "Email": "cooper.vaccaro@gmail.com",
+        "Phone": "7608156674",
+        "Birthday": null,
+        "Points": 89,
+        "Rewards": 3,
+        "GiftCards": null
+    }
+]

@@ -1,0 +1,26 @@
+[
+   {
+      "Id":1,
+      "Name":"Burger Meals"
+   },
+   {
+      "Id":2,
+      "Name":"Chicken Strip Basket"
+   },
+   {
+      "Id":3,
+      "Name":"Omelettes"
+   },
+   {
+      "Id":4,
+      "Name":"Sandwiches"
+   },
+   {
+      "Id":5,
+      "Name":"Subcategory 1"
+   },
+   {
+      "Id":6,
+      "Name":"Subcategory 2"
+   }
+]
